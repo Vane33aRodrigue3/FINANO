@@ -5,5 +5,5 @@ This project website basically contains:
 1. Expense Manager: Students can add/delete data related to their expenses and keep track of their monthly expenditures.
 2. Bill Manager: Pay all your bills and purchase OTT subscriptions in one place.
 3. Financial Aid Support: Apply for various scholarship schemes and financial aid.
-4. Investment: Find the best options for investing your money and grow them over time.
+4. Investment: Find the best options for investing your money and grow them over time..
 
